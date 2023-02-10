@@ -1,1 +1,2 @@
-Hello git
+Hello git.
+Today's date is 10 feb. tis is my first lecture of it.
