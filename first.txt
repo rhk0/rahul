@@ -2,5 +2,9 @@ Hello git.
 Today's date is 10 feb. 
 this is my 3rd lecture of it.
 sfdg
+<<<<<<< HEAD
 
 todays date is 14th abd adding this test from local
+=======
+today date is 14 feb
+>>>>>>> 28130c16db0d840fcae6797bf5b070e8d655f539
